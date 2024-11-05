@@ -1,1 +1,2 @@
-Setting and storage repo
+Just another repo on GitHub,
+Nothing more nothing less
