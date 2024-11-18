@@ -1,4 +1,5 @@
 {"START"},
 ,
 {"user":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 OPR/85.0.0.0","time":"18/11/2024, 9:03:46 pm","lat":19.1362024,"long":72.8689716,"error":"No error"},
-{"user":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36","time":"18/11/2024, 21:05:09","lat":19.1362023,"long":72.8689714,"error":"No error"}
+{"user":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36","time":"18/11/2024, 21:05:09","lat":19.1362023,"long":72.8689714,"error":"No error"},
+{"user":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36","time":"18/11/2024, 21:09:04","lat":19.1,"long":72.86,"error":{}}
