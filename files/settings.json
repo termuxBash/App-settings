@@ -1,1 +1,1 @@
-{"locate":{"mac":true,"delayMins":120,"days":["mon","tue","wed","thu","fri","sat"]},"ssh":{"mac":true,"OnTime":"18:29"},"LastUpdate":"7/1/2025, 10:06:24 pm"}
+{"locate":{"mac":false,"delayMins":120,"days":["mon","tue","wed","thu","fri","sat"]},"ssh":{"mac":true,"OnTime":"18:29"},"LastUpdate":"9/1/2025, 10:18:29 pm"}
